@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Chuyen doi tien te\bin\Debug\net6.0\Chuyen doi tien te.exe
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Chuyen doi tien te\bin\Debug\net6.0\Chuyen doi tien te.deps.json
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Chuyen doi tien te\bin\Debug\net6.0\Chuyen doi tien te.runtimeconfig.json
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Chuyen doi tien te\bin\Debug\net6.0\Chuyen doi tien te.dll
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Chuyen doi tien te\bin\Debug\net6.0\Chuyen doi tien te.pdb
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Chuyen doi tien te\obj\Debug\net6.0\Chuyen doi tien te.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Chuyen doi tien te\obj\Debug\net6.0\Chuyen doi tien te.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Chuyen doi tien te\obj\Debug\net6.0\Chuyen doi tien te.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Chuyen doi tien te\obj\Debug\net6.0\Chuyen doi tien te.AssemblyInfo.cs
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Chuyen doi tien te\obj\Debug\net6.0\Chuyen doi tien te.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Chuyen doi tien te\obj\Debug\net6.0\Chuyen doi tien te.dll
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Chuyen doi tien te\obj\Debug\net6.0\refint\Chuyen doi tien te.dll
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Chuyen doi tien te\obj\Debug\net6.0\Chuyen doi tien te.pdb
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Chuyen doi tien te\obj\Debug\net6.0\Chuyen doi tien te.genruntimeconfig.cache
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Chuyen doi tien te\obj\Debug\net6.0\ref\Chuyen doi tien te.dll
