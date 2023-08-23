@@ -16,11 +16,11 @@
         else if (tuoi >= 15 && tuoi <= 18)
         {
             Console.WriteLine("Dang hoc THPT");
-        }   
+        }
         else
         {
             Console.WriteLine("Da ra truong");
-        }   
-
+        }
+        Console.WriteLine("ket thuc chuong trinh");
     }
 }
