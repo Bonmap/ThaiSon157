@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tinh chi so can nang\bin\Debug\net6.0\Tinh chi so can nang.exe
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tinh chi so can nang\bin\Debug\net6.0\Tinh chi so can nang.deps.json
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tinh chi so can nang\bin\Debug\net6.0\Tinh chi so can nang.runtimeconfig.json
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tinh chi so can nang\bin\Debug\net6.0\Tinh chi so can nang.dll
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tinh chi so can nang\bin\Debug\net6.0\Tinh chi so can nang.pdb
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tinh chi so can nang\obj\Debug\net6.0\Tinh chi so can nang.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tinh chi so can nang\obj\Debug\net6.0\Tinh chi so can nang.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tinh chi so can nang\obj\Debug\net6.0\Tinh chi so can nang.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tinh chi so can nang\obj\Debug\net6.0\Tinh chi so can nang.AssemblyInfo.cs
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tinh chi so can nang\obj\Debug\net6.0\Tinh chi so can nang.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tinh chi so can nang\obj\Debug\net6.0\Tinh chi so can nang.dll
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tinh chi so can nang\obj\Debug\net6.0\refint\Tinh chi so can nang.dll
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tinh chi so can nang\obj\Debug\net6.0\Tinh chi so can nang.pdb
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tinh chi so can nang\obj\Debug\net6.0\Tinh chi so can nang.genruntimeconfig.cache
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tinh chi so can nang\obj\Debug\net6.0\ref\Tinh chi so can nang.dll
