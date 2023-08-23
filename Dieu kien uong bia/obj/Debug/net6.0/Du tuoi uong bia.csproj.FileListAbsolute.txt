@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Du tuoi uong bia\bin\Debug\net6.0\Du tuoi uong bia.exe
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Du tuoi uong bia\bin\Debug\net6.0\Du tuoi uong bia.deps.json
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Du tuoi uong bia\bin\Debug\net6.0\Du tuoi uong bia.runtimeconfig.json
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Du tuoi uong bia\bin\Debug\net6.0\Du tuoi uong bia.dll
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Du tuoi uong bia\bin\Debug\net6.0\Du tuoi uong bia.pdb
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Du tuoi uong bia\obj\Debug\net6.0\Du tuoi uong bia.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Du tuoi uong bia\obj\Debug\net6.0\Du tuoi uong bia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Du tuoi uong bia\obj\Debug\net6.0\Du tuoi uong bia.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Du tuoi uong bia\obj\Debug\net6.0\Du tuoi uong bia.AssemblyInfo.cs
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Du tuoi uong bia\obj\Debug\net6.0\Du tuoi uong bia.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Du tuoi uong bia\obj\Debug\net6.0\Du tuoi uong bia.dll
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Du tuoi uong bia\obj\Debug\net6.0\refint\Du tuoi uong bia.dll
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Du tuoi uong bia\obj\Debug\net6.0\Du tuoi uong bia.pdb
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Du tuoi uong bia\obj\Debug\net6.0\Du tuoi uong bia.genruntimeconfig.cache
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Du tuoi uong bia\obj\Debug\net6.0\ref\Du tuoi uong bia.dll
