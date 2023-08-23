@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Phan loai tuoi hoc\bin\Debug\net6.0\Phan loai tuoi hoc.exe
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Phan loai tuoi hoc\bin\Debug\net6.0\Phan loai tuoi hoc.deps.json
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Phan loai tuoi hoc\bin\Debug\net6.0\Phan loai tuoi hoc.runtimeconfig.json
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Phan loai tuoi hoc\bin\Debug\net6.0\Phan loai tuoi hoc.dll
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Phan loai tuoi hoc\bin\Debug\net6.0\Phan loai tuoi hoc.pdb
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Phan loai tuoi hoc\obj\Debug\net6.0\Phan loai tuoi hoc.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Phan loai tuoi hoc\obj\Debug\net6.0\Phan loai tuoi hoc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Phan loai tuoi hoc\obj\Debug\net6.0\Phan loai tuoi hoc.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Phan loai tuoi hoc\obj\Debug\net6.0\Phan loai tuoi hoc.AssemblyInfo.cs
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Phan loai tuoi hoc\obj\Debug\net6.0\Phan loai tuoi hoc.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Phan loai tuoi hoc\obj\Debug\net6.0\Phan loai tuoi hoc.dll
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Phan loai tuoi hoc\obj\Debug\net6.0\refint\Phan loai tuoi hoc.dll
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Phan loai tuoi hoc\obj\Debug\net6.0\Phan loai tuoi hoc.pdb
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Phan loai tuoi hoc\obj\Debug\net6.0\Phan loai tuoi hoc.genruntimeconfig.cache
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Phan loai tuoi hoc\obj\Debug\net6.0\ref\Phan loai tuoi hoc.dll

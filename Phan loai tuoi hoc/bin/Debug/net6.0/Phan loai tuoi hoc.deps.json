@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Phan loai tuoi hoc/1.0.0": {
+        "runtime": {
+          "Phan loai tuoi hoc.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Phan loai tuoi hoc/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
