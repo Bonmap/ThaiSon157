@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tuoi hoc cac cap\obj\Debug\net6.0\Tuoi hoc cac cap.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tuoi hoc cac cap\obj\Debug\net6.0\Tuoi hoc cac cap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tuoi hoc cac cap\obj\Debug\net6.0\Tuoi hoc cac cap.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tuoi hoc cac cap\obj\Debug\net6.0\Tuoi hoc cac cap.AssemblyInfo.cs
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tuoi hoc cac cap\obj\Debug\net6.0\Tuoi hoc cac cap.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tuoi hoc cac cap\bin\Debug\net6.0\Tuoi hoc cac cap.exe
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tuoi hoc cac cap\bin\Debug\net6.0\Tuoi hoc cac cap.deps.json
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tuoi hoc cac cap\bin\Debug\net6.0\Tuoi hoc cac cap.runtimeconfig.json
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tuoi hoc cac cap\bin\Debug\net6.0\Tuoi hoc cac cap.dll
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tuoi hoc cac cap\bin\Debug\net6.0\Tuoi hoc cac cap.pdb
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tuoi hoc cac cap\obj\Debug\net6.0\Tuoi hoc cac cap.dll
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tuoi hoc cac cap\obj\Debug\net6.0\refint\Tuoi hoc cac cap.dll
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tuoi hoc cac cap\obj\Debug\net6.0\Tuoi hoc cac cap.pdb
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tuoi hoc cac cap\obj\Debug\net6.0\Tuoi hoc cac cap.genruntimeconfig.cache
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tuoi hoc cac cap\obj\Debug\net6.0\ref\Tuoi hoc cac cap.dll
