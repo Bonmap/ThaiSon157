@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Kiem tra thang\obj\Debug\net6.0\Kiem tra thang.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Kiem tra thang\obj\Debug\net6.0\Kiem tra thang.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Kiem tra thang\obj\Debug\net6.0\Kiem tra thang.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Kiem tra thang\obj\Debug\net6.0\Kiem tra thang.AssemblyInfo.cs
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Kiem tra thang\obj\Debug\net6.0\Kiem tra thang.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Kiem tra thang\bin\Debug\net6.0\Kiem tra thang.exe
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Kiem tra thang\bin\Debug\net6.0\Kiem tra thang.deps.json
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Kiem tra thang\bin\Debug\net6.0\Kiem tra thang.runtimeconfig.json
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Kiem tra thang\bin\Debug\net6.0\Kiem tra thang.dll
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Kiem tra thang\bin\Debug\net6.0\Kiem tra thang.pdb
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Kiem tra thang\obj\Debug\net6.0\Kiem tra thang.dll
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Kiem tra thang\obj\Debug\net6.0\refint\Kiem tra thang.dll
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Kiem tra thang\obj\Debug\net6.0\Kiem tra thang.pdb
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Kiem tra thang\obj\Debug\net6.0\Kiem tra thang.genruntimeconfig.cache
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Kiem tra thang\obj\Debug\net6.0\ref\Kiem tra thang.dll
