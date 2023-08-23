@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Giai phuong trinh bac nhat\obj\Debug\net6.0\Giai phuong trinh bac nhat.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Giai phuong trinh bac nhat\obj\Debug\net6.0\Giai phuong trinh bac nhat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Giai phuong trinh bac nhat\obj\Debug\net6.0\Giai phuong trinh bac nhat.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Giai phuong trinh bac nhat\obj\Debug\net6.0\Giai phuong trinh bac nhat.AssemblyInfo.cs
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Giai phuong trinh bac nhat\obj\Debug\net6.0\Giai phuong trinh bac nhat.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Giai phuong trinh bac nhat\bin\Debug\net6.0\Giai phuong trinh bac nhat.exe
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Giai phuong trinh bac nhat\bin\Debug\net6.0\Giai phuong trinh bac nhat.deps.json
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Giai phuong trinh bac nhat\bin\Debug\net6.0\Giai phuong trinh bac nhat.runtimeconfig.json
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Giai phuong trinh bac nhat\bin\Debug\net6.0\Giai phuong trinh bac nhat.dll
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Giai phuong trinh bac nhat\bin\Debug\net6.0\Giai phuong trinh bac nhat.pdb
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Giai phuong trinh bac nhat\obj\Debug\net6.0\Giai phuong trinh bac nhat.dll
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Giai phuong trinh bac nhat\obj\Debug\net6.0\refint\Giai phuong trinh bac nhat.dll
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Giai phuong trinh bac nhat\obj\Debug\net6.0\Giai phuong trinh bac nhat.pdb
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Giai phuong trinh bac nhat\obj\Debug\net6.0\Giai phuong trinh bac nhat.genruntimeconfig.cache
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Giai phuong trinh bac nhat\obj\Debug\net6.0\ref\Giai phuong trinh bac nhat.dll
