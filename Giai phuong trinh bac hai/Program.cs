@@ -17,12 +17,12 @@
         {
             if (b == c)
             { Console.WriteLine("Phuong trinh vo so nghiem"); }
-            else if (b==0)
+            else if (b == 0)
             { Console.WriteLine("Phuong trinh vo nghiem"); }
-            else 
+            else
             {
-            double x2 = - c / b;
-            Console.WriteLine("Dap an cua phuong trinh x2=" + x2);
+                double x = -c / b;
+                Console.WriteLine("Dap an cua phuong trinh x=" + x);
             }
         }
         else if (delta < 0)
