@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Thiet ke menu cho ung dung\bin\Debug\net6.0\Thiet ke menu cho ung dung.exe
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Thiet ke menu cho ung dung\bin\Debug\net6.0\Thiet ke menu cho ung dung.deps.json
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Thiet ke menu cho ung dung\bin\Debug\net6.0\Thiet ke menu cho ung dung.runtimeconfig.json
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Thiet ke menu cho ung dung\bin\Debug\net6.0\Thiet ke menu cho ung dung.dll
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Thiet ke menu cho ung dung\bin\Debug\net6.0\Thiet ke menu cho ung dung.pdb
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Thiet ke menu cho ung dung\obj\Debug\net6.0\Thiet ke menu cho ung dung.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Thiet ke menu cho ung dung\obj\Debug\net6.0\Thiet ke menu cho ung dung.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Thiet ke menu cho ung dung\obj\Debug\net6.0\Thiet ke menu cho ung dung.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Thiet ke menu cho ung dung\obj\Debug\net6.0\Thiet ke menu cho ung dung.AssemblyInfo.cs
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Thiet ke menu cho ung dung\obj\Debug\net6.0\Thiet ke menu cho ung dung.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Thiet ke menu cho ung dung\obj\Debug\net6.0\Thiet ke menu cho ung dung.dll
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Thiet ke menu cho ung dung\obj\Debug\net6.0\refint\Thiet ke menu cho ung dung.dll
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Thiet ke menu cho ung dung\obj\Debug\net6.0\Thiet ke menu cho ung dung.pdb
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Thiet ke menu cho ung dung\obj\Debug\net6.0\Thiet ke menu cho ung dung.genruntimeconfig.cache
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Thiet ke menu cho ung dung\obj\Debug\net6.0\ref\Thiet ke menu cho ung dung.dll
