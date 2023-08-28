@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Ve hinh tam giac\obj\Debug\net6.0\Ve hinh tam giac.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Ve hinh tam giac\obj\Debug\net6.0\Ve hinh tam giac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Ve hinh tam giac\obj\Debug\net6.0\Ve hinh tam giac.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Ve hinh tam giac\obj\Debug\net6.0\Ve hinh tam giac.AssemblyInfo.cs
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Ve hinh tam giac\obj\Debug\net6.0\Ve hinh tam giac.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Ve hinh tam giac\bin\Debug\net6.0\Ve hinh tam giac.exe
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Ve hinh tam giac\bin\Debug\net6.0\Ve hinh tam giac.deps.json
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Ve hinh tam giac\bin\Debug\net6.0\Ve hinh tam giac.runtimeconfig.json
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Ve hinh tam giac\bin\Debug\net6.0\Ve hinh tam giac.dll
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Ve hinh tam giac\bin\Debug\net6.0\Ve hinh tam giac.pdb
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Ve hinh tam giac\obj\Debug\net6.0\Ve hinh tam giac.dll
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Ve hinh tam giac\obj\Debug\net6.0\refint\Ve hinh tam giac.dll
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Ve hinh tam giac\obj\Debug\net6.0\Ve hinh tam giac.pdb
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Ve hinh tam giac\obj\Debug\net6.0\Ve hinh tam giac.genruntimeconfig.cache
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Ve hinh tam giac\obj\Debug\net6.0\ref\Ve hinh tam giac.dll

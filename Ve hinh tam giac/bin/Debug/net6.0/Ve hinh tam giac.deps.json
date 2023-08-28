@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Ve hinh tam giac/1.0.0": {
+        "runtime": {
+          "Ve hinh tam giac.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ve hinh tam giac/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
