@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Desktop\\Lap trinh game\\ThaiSon157\\Doc so thanh chu (2 chu so)\\Test ham.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Desktop\\Lap trinh game\\ThaiSon157\\Doc so thanh chu\\Test ham.csproj",
       "projectName": "Test ham",
-      "projectPath": "C:\\Users\\HP\\Desktop\\Lap trinh game\\ThaiSon157\\Doc so thanh chu (2 chu so)\\Test ham.csproj",
+      "projectPath": "C:\\Users\\HP\\Desktop\\Lap trinh game\\ThaiSon157\\Doc so thanh chu\\Test ham.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\Desktop\\Lap trinh game\\ThaiSon157\\Doc so thanh chu (2 chu so)\\obj\\",
+      "outputPath": "C:\\Users\\HP\\Desktop\\Lap trinh game\\ThaiSon157\\Doc so thanh chu\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"

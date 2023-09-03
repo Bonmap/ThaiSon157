@@ -1,19 +1,19 @@
-﻿
-class program
+﻿class program
 {
     static void Main(string[] args)
     {
+        Console.WriteLine("Chuong trinh doc so thanh chu (3 chu so)");
         int a;
         do
         {
-            Console.WriteLine("Chuong trinh doc so thanh chu");
-            Console.WriteLine("Vui long nhap so");
-            a = int.Parse(Console.ReadLine());
-            if (a < 0 || a >= 1000)
+            Console.WriteLine("Vui long nhap so: ");
+            a = Convert.ToInt32(Console.ReadLine());
+            if (a < 0 || a > 999)
             {
                 Console.WriteLine("Ngoai pham vi cua chuong trinh");
             }
-            else if (a >= 0 && a <= 10)
+
+            if (a >= 0 && a <= 10)
             {
                 switch (a)
                 {
@@ -52,29 +52,24 @@ class program
                         break;
                 }
             }
-            else if (a > 10 || a > 1000)
+            if (a > 10 && a < 1000)
             {
-                if (a == 11 || a == 12)
+                if (a == 11)
                 {
-                    if (a == 11)
-                    {
-                        Console.WriteLine("eleven");
-                    }
-                    else
-                    {
-                        Console.WriteLine("twelve");
-                    }
+                    Console.WriteLine("eleven");
+                }
+                else if (a == 12)
+                {
+                    Console.WriteLine("Twelve");
                 }
                 else
                 {
                     int first, second, third;
                     first = a / 100;
-                    if (first > 0)
-                        second = (a % (first * 100)) / 10;
-                    else second = a / 10;
-                    third = a - (first * 100 + second * 10);
-                    Console.WriteLine(first + " " + second + " " + third);
-                    if (first == 0 && second == 1)
+                    second = a % 100 / 10;
+                    third = a - first * 100 - second * 10;
+                    Console.WriteLine($"{first},{second},{third}");
+                    if (first == 0 && second == 1 && third != 0)
                     {
                         switch (third)
                         {
@@ -107,7 +102,7 @@ class program
                                 break;
                         }
                     }
-                    if (first == 0 && second != 1)
+                    else if (first == 0 && second > 1)
                     {
                         switch (second)
                         {
@@ -136,7 +131,7 @@ class program
                                 Console.Write(" ninety ");
                                 break;
                         }
-                        switch(third)
+                        switch (third)
                         {
                             case 0:
                                 Console.WriteLine(" ");
@@ -170,7 +165,43 @@ class program
                                 break;
                         }
                     }
-                    if (first > 0)
+                    else if (first > 0 && second == 0 && third == 0)
+                    {
+                        switch (first)
+                        {
+                            case 0:
+                                Console.Write("");
+                                break;
+                            case 1:
+                                Console.Write(" one hundred ");
+                                break;
+                            case 2:
+                                Console.Write(" two hundred ");
+                                break;
+                            case 3:
+                                Console.Write(" three hundred ");
+                                break;
+                            case 4:
+                                Console.Write(" four hundred ");
+                                break;
+                            case 5:
+                                Console.Write(" five hundred ");
+                                break;
+                            case 6:
+                                Console.Write(" six hundred ");
+                                break;
+                            case 7:
+                                Console.Write(" seven hundred ");
+                                break;
+                            case 8:
+                                Console.Write(" eight hundred ");
+                                break;
+                            case 9:
+                                Console.Write(" nine hundred ");
+                                break;
+                        }
+                    }
+                    else
                     {
                         switch (first)
                         {
