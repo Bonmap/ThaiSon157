@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tinh tong cac phan tu trong mang\bin\Debug\net6.0\Tinh tong cac phan tu trong mang.exe
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tinh tong cac phan tu trong mang\bin\Debug\net6.0\Tinh tong cac phan tu trong mang.deps.json
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tinh tong cac phan tu trong mang\bin\Debug\net6.0\Tinh tong cac phan tu trong mang.runtimeconfig.json
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tinh tong cac phan tu trong mang\bin\Debug\net6.0\Tinh tong cac phan tu trong mang.dll
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tinh tong cac phan tu trong mang\bin\Debug\net6.0\Tinh tong cac phan tu trong mang.pdb
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tinh tong cac phan tu trong mang\obj\Debug\net6.0\Tinh tong cac phan tu trong mang.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tinh tong cac phan tu trong mang\obj\Debug\net6.0\Tinh tong cac phan tu trong mang.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tinh tong cac phan tu trong mang\obj\Debug\net6.0\Tinh tong cac phan tu trong mang.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tinh tong cac phan tu trong mang\obj\Debug\net6.0\Tinh tong cac phan tu trong mang.AssemblyInfo.cs
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tinh tong cac phan tu trong mang\obj\Debug\net6.0\Tinh tong cac phan tu trong mang.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tinh tong cac phan tu trong mang\obj\Debug\net6.0\Tinh tong cac phan tu trong mang.dll
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tinh tong cac phan tu trong mang\obj\Debug\net6.0\refint\Tinh tong cac phan tu trong mang.dll
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tinh tong cac phan tu trong mang\obj\Debug\net6.0\Tinh tong cac phan tu trong mang.pdb
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tinh tong cac phan tu trong mang\obj\Debug\net6.0\Tinh tong cac phan tu trong mang.genruntimeconfig.cache
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tinh tong cac phan tu trong mang\obj\Debug\net6.0\ref\Tinh tong cac phan tu trong mang.dll
