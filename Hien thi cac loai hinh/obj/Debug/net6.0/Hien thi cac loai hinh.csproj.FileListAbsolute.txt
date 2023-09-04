@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Hien thi cac loai hinh\bin\Debug\net6.0\Hien thi cac loai hinh.exe
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Hien thi cac loai hinh\bin\Debug\net6.0\Hien thi cac loai hinh.deps.json
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Hien thi cac loai hinh\bin\Debug\net6.0\Hien thi cac loai hinh.runtimeconfig.json
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Hien thi cac loai hinh\bin\Debug\net6.0\Hien thi cac loai hinh.dll
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Hien thi cac loai hinh\bin\Debug\net6.0\Hien thi cac loai hinh.pdb
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Hien thi cac loai hinh\obj\Debug\net6.0\Hien thi cac loai hinh.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Hien thi cac loai hinh\obj\Debug\net6.0\Hien thi cac loai hinh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Hien thi cac loai hinh\obj\Debug\net6.0\Hien thi cac loai hinh.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Hien thi cac loai hinh\obj\Debug\net6.0\Hien thi cac loai hinh.AssemblyInfo.cs
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Hien thi cac loai hinh\obj\Debug\net6.0\Hien thi cac loai hinh.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Hien thi cac loai hinh\obj\Debug\net6.0\Hien thi cac loai hinh.dll
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Hien thi cac loai hinh\obj\Debug\net6.0\refint\Hien thi cac loai hinh.dll
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Hien thi cac loai hinh\obj\Debug\net6.0\Hien thi cac loai hinh.pdb
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Hien thi cac loai hinh\obj\Debug\net6.0\Hien thi cac loai hinh.genruntimeconfig.cache
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Hien thi cac loai hinh\obj\Debug\net6.0\ref\Hien thi cac loai hinh.dll

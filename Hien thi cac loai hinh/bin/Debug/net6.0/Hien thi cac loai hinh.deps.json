@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Hien thi cac loai hinh/1.0.0": {
+        "runtime": {
+          "Hien thi cac loai hinh.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hien thi cac loai hinh/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
