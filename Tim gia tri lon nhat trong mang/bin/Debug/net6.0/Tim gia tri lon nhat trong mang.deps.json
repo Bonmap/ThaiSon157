@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Tim gia tri lon nhat trong mang/1.0.0": {
+        "runtime": {
+          "Tim gia tri lon nhat trong mang.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tim gia tri lon nhat trong mang/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

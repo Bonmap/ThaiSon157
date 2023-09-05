@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tim gia tri lon nhat trong mang\bin\Debug\net6.0\Tim gia tri lon nhat trong mang.exe
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tim gia tri lon nhat trong mang\bin\Debug\net6.0\Tim gia tri lon nhat trong mang.deps.json
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tim gia tri lon nhat trong mang\bin\Debug\net6.0\Tim gia tri lon nhat trong mang.runtimeconfig.json
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tim gia tri lon nhat trong mang\bin\Debug\net6.0\Tim gia tri lon nhat trong mang.dll
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tim gia tri lon nhat trong mang\bin\Debug\net6.0\Tim gia tri lon nhat trong mang.pdb
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tim gia tri lon nhat trong mang\obj\Debug\net6.0\Tim gia tri lon nhat trong mang.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tim gia tri lon nhat trong mang\obj\Debug\net6.0\Tim gia tri lon nhat trong mang.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tim gia tri lon nhat trong mang\obj\Debug\net6.0\Tim gia tri lon nhat trong mang.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tim gia tri lon nhat trong mang\obj\Debug\net6.0\Tim gia tri lon nhat trong mang.AssemblyInfo.cs
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tim gia tri lon nhat trong mang\obj\Debug\net6.0\Tim gia tri lon nhat trong mang.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tim gia tri lon nhat trong mang\obj\Debug\net6.0\Tim gia tri lon nhat trong mang.dll
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tim gia tri lon nhat trong mang\obj\Debug\net6.0\refint\Tim gia tri lon nhat trong mang.dll
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tim gia tri lon nhat trong mang\obj\Debug\net6.0\Tim gia tri lon nhat trong mang.pdb
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tim gia tri lon nhat trong mang\obj\Debug\net6.0\Tim gia tri lon nhat trong mang.genruntimeconfig.cache
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tim gia tri lon nhat trong mang\obj\Debug\net6.0\ref\Tim gia tri lon nhat trong mang.dll
