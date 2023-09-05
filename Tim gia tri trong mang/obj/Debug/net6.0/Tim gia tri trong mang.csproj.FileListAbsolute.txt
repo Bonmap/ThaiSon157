@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tim gia tri trong mang\bin\Debug\net6.0\Tim gia tri trong mang.exe
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tim gia tri trong mang\bin\Debug\net6.0\Tim gia tri trong mang.deps.json
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tim gia tri trong mang\bin\Debug\net6.0\Tim gia tri trong mang.runtimeconfig.json
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tim gia tri trong mang\bin\Debug\net6.0\Tim gia tri trong mang.dll
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tim gia tri trong mang\bin\Debug\net6.0\Tim gia tri trong mang.pdb
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tim gia tri trong mang\obj\Debug\net6.0\Tim gia tri trong mang.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tim gia tri trong mang\obj\Debug\net6.0\Tim gia tri trong mang.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tim gia tri trong mang\obj\Debug\net6.0\Tim gia tri trong mang.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tim gia tri trong mang\obj\Debug\net6.0\Tim gia tri trong mang.AssemblyInfo.cs
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tim gia tri trong mang\obj\Debug\net6.0\Tim gia tri trong mang.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tim gia tri trong mang\obj\Debug\net6.0\Tim gia tri trong mang.dll
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tim gia tri trong mang\obj\Debug\net6.0\refint\Tim gia tri trong mang.dll
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tim gia tri trong mang\obj\Debug\net6.0\Tim gia tri trong mang.pdb
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tim gia tri trong mang\obj\Debug\net6.0\Tim gia tri trong mang.genruntimeconfig.cache
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tim gia tri trong mang\obj\Debug\net6.0\ref\Tim gia tri trong mang.dll
