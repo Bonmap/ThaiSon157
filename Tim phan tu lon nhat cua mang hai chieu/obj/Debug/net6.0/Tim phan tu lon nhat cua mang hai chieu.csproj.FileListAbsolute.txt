@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tim phan tu lon nhat cua mang hai chieu\bin\Debug\net6.0\Tim phan tu lon nhat cua mang hai chieu.exe
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tim phan tu lon nhat cua mang hai chieu\bin\Debug\net6.0\Tim phan tu lon nhat cua mang hai chieu.deps.json
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tim phan tu lon nhat cua mang hai chieu\bin\Debug\net6.0\Tim phan tu lon nhat cua mang hai chieu.runtimeconfig.json
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tim phan tu lon nhat cua mang hai chieu\bin\Debug\net6.0\Tim phan tu lon nhat cua mang hai chieu.dll
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tim phan tu lon nhat cua mang hai chieu\bin\Debug\net6.0\Tim phan tu lon nhat cua mang hai chieu.pdb
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tim phan tu lon nhat cua mang hai chieu\obj\Debug\net6.0\Tim phan tu lon nhat cua mang hai chieu.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tim phan tu lon nhat cua mang hai chieu\obj\Debug\net6.0\Tim phan tu lon nhat cua mang hai chieu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tim phan tu lon nhat cua mang hai chieu\obj\Debug\net6.0\Tim phan tu lon nhat cua mang hai chieu.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tim phan tu lon nhat cua mang hai chieu\obj\Debug\net6.0\Tim phan tu lon nhat cua mang hai chieu.AssemblyInfo.cs
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tim phan tu lon nhat cua mang hai chieu\obj\Debug\net6.0\Tim phan tu lon nhat cua mang hai chieu.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tim phan tu lon nhat cua mang hai chieu\obj\Debug\net6.0\Tim phan tu lon nhat cua mang hai chieu.dll
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tim phan tu lon nhat cua mang hai chieu\obj\Debug\net6.0\refint\Tim phan tu lon nhat cua mang hai chieu.dll
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tim phan tu lon nhat cua mang hai chieu\obj\Debug\net6.0\Tim phan tu lon nhat cua mang hai chieu.pdb
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tim phan tu lon nhat cua mang hai chieu\obj\Debug\net6.0\Tim phan tu lon nhat cua mang hai chieu.genruntimeconfig.cache
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tim phan tu lon nhat cua mang hai chieu\obj\Debug\net6.0\ref\Tim phan tu lon nhat cua mang hai chieu.dll
