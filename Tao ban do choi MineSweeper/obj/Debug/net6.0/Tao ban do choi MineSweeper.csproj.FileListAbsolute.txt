@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tao ban do choi MineSweeper\bin\Debug\net6.0\Tao ban do choi MineSweeper.exe
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tao ban do choi MineSweeper\bin\Debug\net6.0\Tao ban do choi MineSweeper.deps.json
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tao ban do choi MineSweeper\bin\Debug\net6.0\Tao ban do choi MineSweeper.runtimeconfig.json
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tao ban do choi MineSweeper\bin\Debug\net6.0\Tao ban do choi MineSweeper.dll
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tao ban do choi MineSweeper\bin\Debug\net6.0\Tao ban do choi MineSweeper.pdb
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tao ban do choi MineSweeper\obj\Debug\net6.0\Tao ban do choi MineSweeper.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tao ban do choi MineSweeper\obj\Debug\net6.0\Tao ban do choi MineSweeper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tao ban do choi MineSweeper\obj\Debug\net6.0\Tao ban do choi MineSweeper.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tao ban do choi MineSweeper\obj\Debug\net6.0\Tao ban do choi MineSweeper.AssemblyInfo.cs
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tao ban do choi MineSweeper\obj\Debug\net6.0\Tao ban do choi MineSweeper.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tao ban do choi MineSweeper\obj\Debug\net6.0\Tao ban do choi MineSweeper.dll
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tao ban do choi MineSweeper\obj\Debug\net6.0\refint\Tao ban do choi MineSweeper.dll
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tao ban do choi MineSweeper\obj\Debug\net6.0\Tao ban do choi MineSweeper.pdb
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tao ban do choi MineSweeper\obj\Debug\net6.0\Tao ban do choi MineSweeper.genruntimeconfig.cache
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tao ban do choi MineSweeper\obj\Debug\net6.0\ref\Tao ban do choi MineSweeper.dll
