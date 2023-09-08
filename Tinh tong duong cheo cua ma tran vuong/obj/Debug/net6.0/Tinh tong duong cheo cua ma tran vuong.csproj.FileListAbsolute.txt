@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tinh tong duong cheo cua ma tran vuong\bin\Debug\net6.0\Tinh tong duong cheo cua ma tran vuong.exe
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tinh tong duong cheo cua ma tran vuong\bin\Debug\net6.0\Tinh tong duong cheo cua ma tran vuong.deps.json
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tinh tong duong cheo cua ma tran vuong\bin\Debug\net6.0\Tinh tong duong cheo cua ma tran vuong.runtimeconfig.json
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tinh tong duong cheo cua ma tran vuong\bin\Debug\net6.0\Tinh tong duong cheo cua ma tran vuong.dll
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tinh tong duong cheo cua ma tran vuong\bin\Debug\net6.0\Tinh tong duong cheo cua ma tran vuong.pdb
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tinh tong duong cheo cua ma tran vuong\obj\Debug\net6.0\Tinh tong duong cheo cua ma tran vuong.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tinh tong duong cheo cua ma tran vuong\obj\Debug\net6.0\Tinh tong duong cheo cua ma tran vuong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tinh tong duong cheo cua ma tran vuong\obj\Debug\net6.0\Tinh tong duong cheo cua ma tran vuong.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tinh tong duong cheo cua ma tran vuong\obj\Debug\net6.0\Tinh tong duong cheo cua ma tran vuong.AssemblyInfo.cs
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tinh tong duong cheo cua ma tran vuong\obj\Debug\net6.0\Tinh tong duong cheo cua ma tran vuong.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tinh tong duong cheo cua ma tran vuong\obj\Debug\net6.0\Tinh tong duong cheo cua ma tran vuong.dll
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tinh tong duong cheo cua ma tran vuong\obj\Debug\net6.0\refint\Tinh tong duong cheo cua ma tran vuong.dll
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tinh tong duong cheo cua ma tran vuong\obj\Debug\net6.0\Tinh tong duong cheo cua ma tran vuong.pdb
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tinh tong duong cheo cua ma tran vuong\obj\Debug\net6.0\Tinh tong duong cheo cua ma tran vuong.genruntimeconfig.cache
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Tinh tong duong cheo cua ma tran vuong\obj\Debug\net6.0\ref\Tinh tong duong cheo cua ma tran vuong.dll
