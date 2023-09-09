@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Them phan tu vao mang\bin\Debug\net6.0\Them phan tu vao mang.exe
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Them phan tu vao mang\bin\Debug\net6.0\Them phan tu vao mang.deps.json
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Them phan tu vao mang\bin\Debug\net6.0\Them phan tu vao mang.runtimeconfig.json
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Them phan tu vao mang\bin\Debug\net6.0\Them phan tu vao mang.dll
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Them phan tu vao mang\bin\Debug\net6.0\Them phan tu vao mang.pdb
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Them phan tu vao mang\obj\Debug\net6.0\Them phan tu vao mang.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Them phan tu vao mang\obj\Debug\net6.0\Them phan tu vao mang.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Them phan tu vao mang\obj\Debug\net6.0\Them phan tu vao mang.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Them phan tu vao mang\obj\Debug\net6.0\Them phan tu vao mang.AssemblyInfo.cs
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Them phan tu vao mang\obj\Debug\net6.0\Them phan tu vao mang.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Them phan tu vao mang\obj\Debug\net6.0\Them phan tu vao mang.dll
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Them phan tu vao mang\obj\Debug\net6.0\refint\Them phan tu vao mang.dll
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Them phan tu vao mang\obj\Debug\net6.0\Them phan tu vao mang.pdb
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Them phan tu vao mang\obj\Debug\net6.0\Them phan tu vao mang.genruntimeconfig.cache
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Them phan tu vao mang\obj\Debug\net6.0\ref\Them phan tu vao mang.dll
