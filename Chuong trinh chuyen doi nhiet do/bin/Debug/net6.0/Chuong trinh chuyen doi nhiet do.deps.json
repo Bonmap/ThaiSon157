@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Chuong trinh chuyen doi nhiet do/1.0.0": {
+        "runtime": {
+          "Chuong trinh chuyen doi nhiet do.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Chuong trinh chuyen doi nhiet do/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

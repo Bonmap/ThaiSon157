@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Chuong trinh chuyen doi nhiet do\bin\Debug\net6.0\Chuong trinh chuyen doi nhiet do.exe
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Chuong trinh chuyen doi nhiet do\bin\Debug\net6.0\Chuong trinh chuyen doi nhiet do.deps.json
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Chuong trinh chuyen doi nhiet do\bin\Debug\net6.0\Chuong trinh chuyen doi nhiet do.runtimeconfig.json
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Chuong trinh chuyen doi nhiet do\bin\Debug\net6.0\Chuong trinh chuyen doi nhiet do.dll
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Chuong trinh chuyen doi nhiet do\bin\Debug\net6.0\Chuong trinh chuyen doi nhiet do.pdb
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Chuong trinh chuyen doi nhiet do\obj\Debug\net6.0\Chuong trinh chuyen doi nhiet do.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Chuong trinh chuyen doi nhiet do\obj\Debug\net6.0\Chuong trinh chuyen doi nhiet do.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Chuong trinh chuyen doi nhiet do\obj\Debug\net6.0\Chuong trinh chuyen doi nhiet do.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Chuong trinh chuyen doi nhiet do\obj\Debug\net6.0\Chuong trinh chuyen doi nhiet do.AssemblyInfo.cs
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Chuong trinh chuyen doi nhiet do\obj\Debug\net6.0\Chuong trinh chuyen doi nhiet do.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Chuong trinh chuyen doi nhiet do\obj\Debug\net6.0\Chuong trinh chuyen doi nhiet do.dll
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Chuong trinh chuyen doi nhiet do\obj\Debug\net6.0\refint\Chuong trinh chuyen doi nhiet do.dll
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Chuong trinh chuyen doi nhiet do\obj\Debug\net6.0\Chuong trinh chuyen doi nhiet do.pdb
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Chuong trinh chuyen doi nhiet do\obj\Debug\net6.0\Chuong trinh chuyen doi nhiet do.genruntimeconfig.cache
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Chuong trinh chuyen doi nhiet do\obj\Debug\net6.0\ref\Chuong trinh chuyen doi nhiet do.dll
