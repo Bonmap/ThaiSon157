@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Tim gia tri nho nhat trong mang (phuong thuc)/1.0.0": {
+        "runtime": {
+          "Tim gia tri nho nhat trong mang (phuong thuc).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tim gia tri nho nhat trong mang (phuong thuc)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
