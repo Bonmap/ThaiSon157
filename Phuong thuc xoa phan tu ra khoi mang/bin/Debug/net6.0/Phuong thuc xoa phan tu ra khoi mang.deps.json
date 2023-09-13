@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Phuong thuc xoa phan tu ra khoi mang/1.0.0": {
+        "runtime": {
+          "Phuong thuc xoa phan tu ra khoi mang.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Phuong thuc xoa phan tu ra khoi mang/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

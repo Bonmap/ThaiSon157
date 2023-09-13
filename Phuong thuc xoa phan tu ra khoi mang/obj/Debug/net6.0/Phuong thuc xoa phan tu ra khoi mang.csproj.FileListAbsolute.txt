@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Phuong thuc xoa phan tu ra khoi mang\bin\Debug\net6.0\Phuong thuc xoa phan tu ra khoi mang.exe
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Phuong thuc xoa phan tu ra khoi mang\bin\Debug\net6.0\Phuong thuc xoa phan tu ra khoi mang.deps.json
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Phuong thuc xoa phan tu ra khoi mang\bin\Debug\net6.0\Phuong thuc xoa phan tu ra khoi mang.runtimeconfig.json
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Phuong thuc xoa phan tu ra khoi mang\bin\Debug\net6.0\Phuong thuc xoa phan tu ra khoi mang.dll
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Phuong thuc xoa phan tu ra khoi mang\bin\Debug\net6.0\Phuong thuc xoa phan tu ra khoi mang.pdb
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Phuong thuc xoa phan tu ra khoi mang\obj\Debug\net6.0\Phuong thuc xoa phan tu ra khoi mang.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Phuong thuc xoa phan tu ra khoi mang\obj\Debug\net6.0\Phuong thuc xoa phan tu ra khoi mang.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Phuong thuc xoa phan tu ra khoi mang\obj\Debug\net6.0\Phuong thuc xoa phan tu ra khoi mang.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Phuong thuc xoa phan tu ra khoi mang\obj\Debug\net6.0\Phuong thuc xoa phan tu ra khoi mang.AssemblyInfo.cs
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Phuong thuc xoa phan tu ra khoi mang\obj\Debug\net6.0\Phuong thuc xoa phan tu ra khoi mang.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Phuong thuc xoa phan tu ra khoi mang\obj\Debug\net6.0\Phuong thuc xoa phan tu ra khoi mang.dll
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Phuong thuc xoa phan tu ra khoi mang\obj\Debug\net6.0\refint\Phuong thuc xoa phan tu ra khoi mang.dll
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Phuong thuc xoa phan tu ra khoi mang\obj\Debug\net6.0\Phuong thuc xoa phan tu ra khoi mang.pdb
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Phuong thuc xoa phan tu ra khoi mang\obj\Debug\net6.0\Phuong thuc xoa phan tu ra khoi mang.genruntimeconfig.cache
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Phuong thuc xoa phan tu ra khoi mang\obj\Debug\net6.0\ref\Phuong thuc xoa phan tu ra khoi mang.dll
