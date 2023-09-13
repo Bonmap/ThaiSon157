@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Dem so lan xuat hien cua ki tu trong chuoi\bin\Debug\net6.0\Dem so lan xuat hien cua ki tu trong chuoi.exe
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Dem so lan xuat hien cua ki tu trong chuoi\bin\Debug\net6.0\Dem so lan xuat hien cua ki tu trong chuoi.deps.json
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Dem so lan xuat hien cua ki tu trong chuoi\bin\Debug\net6.0\Dem so lan xuat hien cua ki tu trong chuoi.runtimeconfig.json
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Dem so lan xuat hien cua ki tu trong chuoi\bin\Debug\net6.0\Dem so lan xuat hien cua ki tu trong chuoi.dll
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Dem so lan xuat hien cua ki tu trong chuoi\bin\Debug\net6.0\Dem so lan xuat hien cua ki tu trong chuoi.pdb
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Dem so lan xuat hien cua ki tu trong chuoi\obj\Debug\net6.0\Dem so lan xuat hien cua ki tu trong chuoi.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Dem so lan xuat hien cua ki tu trong chuoi\obj\Debug\net6.0\Dem so lan xuat hien cua ki tu trong chuoi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Dem so lan xuat hien cua ki tu trong chuoi\obj\Debug\net6.0\Dem so lan xuat hien cua ki tu trong chuoi.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Dem so lan xuat hien cua ki tu trong chuoi\obj\Debug\net6.0\Dem so lan xuat hien cua ki tu trong chuoi.AssemblyInfo.cs
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Dem so lan xuat hien cua ki tu trong chuoi\obj\Debug\net6.0\Dem so lan xuat hien cua ki tu trong chuoi.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Dem so lan xuat hien cua ki tu trong chuoi\obj\Debug\net6.0\Dem so lan xuat hien cua ki tu trong chuoi.dll
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Dem so lan xuat hien cua ki tu trong chuoi\obj\Debug\net6.0\refint\Dem so lan xuat hien cua ki tu trong chuoi.dll
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Dem so lan xuat hien cua ki tu trong chuoi\obj\Debug\net6.0\Dem so lan xuat hien cua ki tu trong chuoi.pdb
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Dem so lan xuat hien cua ki tu trong chuoi\obj\Debug\net6.0\Dem so lan xuat hien cua ki tu trong chuoi.genruntimeconfig.cache
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Dem so lan xuat hien cua ki tu trong chuoi\obj\Debug\net6.0\ref\Dem so lan xuat hien cua ki tu trong chuoi.dll

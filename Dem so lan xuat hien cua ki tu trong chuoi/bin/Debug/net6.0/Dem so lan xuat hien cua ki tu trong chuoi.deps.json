@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Dem so lan xuat hien cua ki tu trong chuoi/1.0.0": {
+        "runtime": {
+          "Dem so lan xuat hien cua ki tu trong chuoi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dem so lan xuat hien cua ki tu trong chuoi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
