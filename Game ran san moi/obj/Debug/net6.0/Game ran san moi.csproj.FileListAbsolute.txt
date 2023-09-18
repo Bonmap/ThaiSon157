@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Game ran san moi\bin\Debug\net6.0\Game ran san moi.exe
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Game ran san moi\bin\Debug\net6.0\Game ran san moi.deps.json
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Game ran san moi\bin\Debug\net6.0\Game ran san moi.runtimeconfig.json
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Game ran san moi\bin\Debug\net6.0\Game ran san moi.dll
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Game ran san moi\bin\Debug\net6.0\Game ran san moi.pdb
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Game ran san moi\obj\Debug\net6.0\Game ran san moi.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Game ran san moi\obj\Debug\net6.0\Game ran san moi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Game ran san moi\obj\Debug\net6.0\Game ran san moi.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Game ran san moi\obj\Debug\net6.0\Game ran san moi.AssemblyInfo.cs
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Game ran san moi\obj\Debug\net6.0\Game ran san moi.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Game ran san moi\obj\Debug\net6.0\Game ran san moi.dll
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Game ran san moi\obj\Debug\net6.0\refint\Game ran san moi.dll
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Game ran san moi\obj\Debug\net6.0\Game ran san moi.pdb
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Game ran san moi\obj\Debug\net6.0\Game ran san moi.genruntimeconfig.cache
+C:\Users\HP\Desktop\Lap trinh game\ThaiSon157\Game ran san moi\obj\Debug\net6.0\ref\Game ran san moi.dll
